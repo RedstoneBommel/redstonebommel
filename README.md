@@ -2,18 +2,14 @@
 
 ###
 
-<h3 align="center">
-  🚀I have been creating bugs since September 2022<br>
-  🐙I have been using GitHub since September 2023<br>
-  💻I am currently working on a large Discord bot
-</h3>
+<h3 align="center">🚀I have been creating bugs since September 2022<br>🐙I have been using GitHub since September 2023<br>💻I am currently working on a large Discord bot</h3>
 
 ###
 
-<div align="center" height="80%">
-  <img src="https://github-readme-stats.vercel.app/api?username=redstonebommel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=redstonebommel&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=redstonebommel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=redstonebommel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=redstonebommel&locale=en&mode=weekly&theme=merko&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=redstonebommel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
