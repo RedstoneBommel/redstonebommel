@@ -2,7 +2,11 @@
 
 ###
 
-<h3 align="center">🚀I have been creating bugs since September 2022<br>💻I am currently working on a large Discord bot</h3>
+<h3 align="center">
+  🚀I have been creating bugs since September 2022<br>
+  🐙I have been using GitHub since September 2023<br>
+  💻I am currently working on a large Discord bot
+</h3>
 
 ###
 
